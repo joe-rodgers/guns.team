@@ -9,6 +9,12 @@ These are the resources from my [Underground Citadel](https://undergroundcitadel
 * Presentation PowerPoint
 * Presentation PDF
 
+### The Guides
+* [3D Printing Guide]()
+* [FGC9 Build Guide]()
+* [Guide to build FGC9 Barrel]()
+* 
+
 ### Organization Websites
 * [Deterrence Dispensed on Keybase](https://keybase.io/team/det_disp)
 * [Deterrence Dispensed FAQ](https://pastebin.com/raw/RSvLaDkB)
