@@ -1,4 +1,7 @@
 # [guns.team](https://github.com/joe-rodgers/guns.team)
+
+![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/gunsteambanner.png)
+
 ![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/can't%20stop%20the%20signal.png)
 
 3D Gun Printing is disrupting the states monopoly on violence and is causing disruption in the economics of violence. It's important that this information is freely available and spread wide. 
@@ -70,10 +73,6 @@ These are all vetted accounts I think you should follow. Don't trust. Verify for
 * [GunsnBitcoin](https://twitter.com/GunsnBitcoin)
 * [AGleaks](https://twitter.com/AGleaks)
 * [FgcPla](https://twitter.com/FgcPla)
-
-<br>
-
-![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/gunsteam.png)
 
 <br>
 
