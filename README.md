@@ -1,9 +1,9 @@
-[![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/gunsteambanner.png)](https://github.com/joe-rodgers/guns.team)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/gunsteambanner.png" />
 </p>
 
+<br>
 
 ![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/can't%20stop%20the%20signal.png)
 
