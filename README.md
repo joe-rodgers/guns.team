@@ -1,5 +1,5 @@
 # guns.team
-![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/can't%20stop%20the%20signal.png)
+![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/can't%20stop%20the%20signal.png)
 
 3D Gun Printing is disrupting the states monopoly on violence and is causing disruption in the economics of violence. It's important that this information is freely available and spread wide. 
 
