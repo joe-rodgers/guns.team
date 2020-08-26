@@ -5,9 +5,14 @@
 
 These are the resources from my [Underground Citadel](https://undergroundcitadel.com/) talk at [BitBlockBoom 2020](https://bitblockboom.com/).
 
+<br>
+
 ### Presentation Download
-* Presentation in PowerPoint
-* Presentation in PDF
+* Presentation in PowerPoint - (need to upload final)
+* Presentation in PDF - (need to upload final)
+* Recorded Presentation - (need to make this)
+
+<br>
 
 ### Organization Websites
 These are the primary orgs where you can find signal. The keybase group below is public and there is a ton of action there. People are willing to help you there, just be sure to read the pinned messages (they will boot you if you are a dumbass).
@@ -16,6 +21,8 @@ These are the primary orgs where you can find signal. The keybase group below is
 * [Deterrence Dispensed file library](https://lbry.tv/@Deterrence-Dispensed:2)
 * [DefCad](https://defcad.com/)
 
+<br>
+
 ### The Guides
 These are some great guides to understand what I mean when I say documentation matters. The Deterrence Dispensed team has but together some fantastic resources to help you get started.
 
@@ -23,12 +30,14 @@ These are some great guides to understand what I mean when I say documentation m
 * [FGC9 Build Guide](https://github.com/joe-rodgers/guns.team/blob/master/assets/guides/FGC-9_Guide.pdf)
 * [Guide to build FGC9 Barrel](https://github.com/joe-rodgers/guns.team/blob/master/assets/guides/DetDisp_ECM_Rifling_Guide/Project-ButWhatAbout-ECM-9x19-Barrel-DIY-V1-Package/ECM%20Barrel%20Tutorial%20-%20Release%20Version%201.0.pdf)
 
+<br>
+
 ## Software Downloads
 These are both free SW you can use. **FOLLOW THE DETERRENCE DISPENSED 3D PRINTER SETUP GUIDE!**
 * [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
 * [Fusion360](https://www.autodesk.com/products/fusion-360/personal)
 
-
+<br>
 
 ### Personal Websites
 These are some of the personal websites of the admins of the Deterrence Dispensed keybase. You can spend hours in this content. This is the door to the rabbit hole.
@@ -36,12 +45,16 @@ These are some of the personal websites of the admins of the Deterrence Dispense
 * [Ivan on gunstreamer](https://gunstreamer.com/@IvanTheTroll)
 * [CtrlPew's site](https://ctrlpew.com/)
 
+<br>
+
 ### Github Repositories
 Here are a few gh repos dedicated to 3D2A.
 * [AndersonFirearms](https://github.com/PotatoSociety/AndersonFirearms)
 * [samizdat repo](https://github.com/d33pthought42/samizdat)
 * [MSFTserver repo](https://github.com/MSFTserver/print2a)
 * [maduce repo](https://github.com/maduce/fosscad-repo)
+
+<br>
 
 ### Twitter Follows
 These are all vetted accounts I think you should follow. Don't trust. Verify for yourself.
@@ -57,6 +70,8 @@ These are all vetted accounts I think you should follow. Don't trust. Verify for
 * [GunsnBitcoin](https://twitter.com/GunsnBitcoin)
 * [AGleaks](https://twitter.com/AGleaks)
 * [FgcPla](https://twitter.com/FgcPla)
+
+<br>
 
 ![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/gunsteam.png)
 
