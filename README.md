@@ -1,9 +1,11 @@
 # guns.team
 ![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/can't%20stop%20the%20signal.png)
 
-This is the resources guide from my presentation at the satellite conference [Underground Citadel] at BitBlockBoom 2020.
+These are the resources from my [Underground Citadel](https://undergroundcitadel.com/) talk at [BitBlockBoom 2020](https://bitblockboom.com/).
 
-Download the powerpoint and or pdf of the presentation *need link*
+### Downloads
+* Presentation PowerPoint
+* Presentation PDF
 
 ### Org Websites
 * [Deterrence Dispensed on Keybase](https://keybase.io/team/det_disp)
