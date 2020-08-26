@@ -23,7 +23,10 @@ These are some great guides to understand what I mean when I say documentation m
 * [FGC9 Build Guide](https://github.com/joe-rodgers/guns.team/blob/master/assets/guides/FGC-9_Guide.pdf)
 * [Guide to build FGC9 Barrel](https://github.com/joe-rodgers/guns.team/blob/master/assets/guides/DetDisp_ECM_Rifling_Guide/Project-ButWhatAbout-ECM-9x19-Barrel-DIY-V1-Package/ECM%20Barrel%20Tutorial%20-%20Release%20Version%201.0.pdf)
 
-
+## Software Downloads
+These are both free SW you can use. **FOLLOW THE DETERRENCE DISPENSED 3D PRINTER SETUP GUIDE!**
+* [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
+* [Fusion360](https://www.autodesk.com/products/fusion-360/personal)
 
 ### Twitter Follows
 These are all vetted accounts I think you should follow. Don't trust. Verify for yourself.
