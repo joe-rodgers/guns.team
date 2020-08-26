@@ -1,4 +1,4 @@
-# guns.team
+# [guns.team](https://github.com/joe-rodgers/guns.team)
 ![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/can't%20stop%20the%20signal.png)
 
 3D Gun Printing is disrupting the states monopoly on violence and is causing disruption in the economics of violence. It's important that this information is freely available and spread wide. 
@@ -28,18 +28,7 @@ These are both free SW you can use. **FOLLOW THE DETERRENCE DISPENSED 3D PRINTER
 * [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
 * [Fusion360](https://www.autodesk.com/products/fusion-360/personal)
 
-### Twitter Follows
-These are all vetted accounts I think you should follow. Don't trust. Verify for yourself.
 
-* [3D2A Twitter list](https://twitter.com/i/lists/1149016937273405440)
-* [Ivan_Is_Back](https://twitter.com/Ivan_Is_Back)
-* [CtrlPew](https://twitter.com/CtrlPew)
-* [nguyenkvvn](https://twitter.com/nguyenkvvn)
-* [freegunzone](https://twitter.com/freegunzone)
-* [assaultclip](https://twitter.com/assaultclip)
-* [GunsnBitcoin](https://twitter.com/GunsnBitcoin)
-* [AGleaks](https://twitter.com/AGleaks)
-* [FgcPla](https://twitter.com/FgcPla)
 
 ### Personal Websites
 These are some of the personal websites of the admins of the Deterrence Dispensed keybase. You can spend hours in this content. This is the door to the rabbit hole.
@@ -53,6 +42,23 @@ Here are a few gh repos dedicated to 3D2A.
 * [samizdat repo](https://github.com/d33pthought42/samizdat)
 * [MSFTserver repo](https://github.com/MSFTserver/print2a)
 * [maduce repo](https://github.com/maduce/fosscad-repo)
+
+### Twitter Follows
+These are all vetted accounts I think you should follow. Don't trust. Verify for yourself.
+
+[![twitterfollows](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/follows.png)](https://twitter.com/i/lists/1149016937273405440)
+
+* [3D2A Twitter list](https://twitter.com/i/lists/1149016937273405440)
+* [Ivan_Is_Back](https://twitter.com/Ivan_Is_Back)
+* [CtrlPew](https://twitter.com/CtrlPew)
+* [nguyenkvvn](https://twitter.com/nguyenkvvn)
+* [freegunzone](https://twitter.com/freegunzone)
+* [assaultclip](https://twitter.com/assaultclip)
+* [GunsnBitcoin](https://twitter.com/GunsnBitcoin)
+* [AGleaks](https://twitter.com/AGleaks)
+* [FgcPla](https://twitter.com/FgcPla)
+
+![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/gunsteam.png)
 
 <br>
 
