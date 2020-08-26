@@ -32,4 +32,6 @@ Download the powerpoint and or pdf of the presentation *need link*
 * [MSFTserver repo](https://github.com/MSFTserver/print2a)
 * [maduce repo](https://github.com/maduce/fosscad-repo)
 
+<br>
+
 [![](https://badgen.net/badge/Built%20with/❤️%20by%20Joe/F96854)](https://twitter.com/_joerodgers)
