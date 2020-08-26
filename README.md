@@ -10,10 +10,9 @@ These are the resources from my [Underground Citadel](https://undergroundcitadel
 * Presentation PDF
 
 ### The Guides
-* [3D Printing Guide]()
-* [FGC9 Build Guide]()
-* [Guide to build FGC9 Barrel]()
-* 
+* [3D Printing Guide](https://github.com/joe-rodgers/guns.team/blob/master/assets/guides/DetDisp_3D_Printing_Guide/DetDisp_3D_Printing_Guide.pdf)
+* [FGC9 Build Guide](https://github.com/joe-rodgers/guns.team/blob/master/assets/guides/FGC-9_Guide.pdf)
+* [Guide to build FGC9 Barrel](https://github.com/joe-rodgers/guns.team/blob/master/assets/guides/DetDisp_ECM_Rifling_Guide/Project-ButWhatAbout-ECM-9x19-Barrel-DIY-V1-Package/ECM%20Barrel%20Tutorial%20-%20Release%20Version%201.0.pdf)
 
 ### Organization Websites
 * [Deterrence Dispensed on Keybase](https://keybase.io/team/det_disp)
@@ -38,9 +37,11 @@ These are the resources from my [Underground Citadel](https://undergroundcitadel
 * [CtrlPew's site](https://ctrlpew.com/)
 
 ### Github Repositories
+* [AndersonFirearms](https://github.com/PotatoSociety/AndersonFirearms)
 * [samizdat repo](https://github.com/d33pthought42/samizdat)
 * [MSFTserver repo](https://github.com/MSFTserver/print2a)
 * [maduce repo](https://github.com/maduce/fosscad-repo)
+
 
 ### Bitcoin and 3D Printing
 There's DEFINITELY overlap between the rogue gun enthusiasts, the 3D printing gang, and bitcoiners. CryptoCloaks sits in the middle of the 3D printing and Bitcoin venn diagram. They've got some cool free projects you can download and a great telegram you can follow.
