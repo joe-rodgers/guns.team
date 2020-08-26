@@ -15,7 +15,7 @@ These are the resources from my [Underground Citadel](https://undergroundcitadel
 
 ## Presentation Download
 * Presentation in PowerPoint - (need to upload final)
-* Presentation in PDF - (need to upload final)
+* [Presentation in PDF](https://github.com/joe-rodgers/guns.team/blob/master/assets/Can%E2%80%99t%20Stop%20the%20Signal.pdf)
 * Recorded Presentation - (need to make this)
 
 <br>
