@@ -1,6 +1,8 @@
 # guns.team
 ![](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/can't%20stop%20the%20signal.png)
 
+This is the resources guide from my presentation at the satellite conference [Underground Citadel] at BitBlockBoom 2020.
+
 Download the powerpoint and or pdf of the presentation *need link*
 
 ### Org Websites
@@ -22,7 +24,7 @@ Download the powerpoint and or pdf of the presentation *need link*
 
 ### Personal Websites
 * [Ivan's site](https://ivanthetroll.keybase.pub/)
-* [Ivan on gunstreamer](https://gunstreamer.com/@IvanTheTroll)[^gunstreamer]
+* [Ivan on gunstreamer](https://gunstreamer.com/@IvanTheTroll)
 * [CtrlPew's site](https://ctrlpew.com/)
 
 ### Github Repositories
@@ -30,4 +32,4 @@ Download the powerpoint and or pdf of the presentation *need link*
 * [MSFTserver repo](https://github.com/MSFTserver/print2a)
 * [maduce repo](https://github.com/maduce/fosscad-repo)
 
-[gunstreamer]: this is youtube but guns
+[![](https://badgen.net/badge/Built%20with/❤️%20by%20Joe/F96854)](https://twitter.com/_joerodgers)
