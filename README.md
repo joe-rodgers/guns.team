@@ -1,3 +1,4 @@
+[GitHub repo](https://github.com/joe-rodgers/guns.team)
 
 <p align="center">
   <a href="https://joe-rodgers.github.io/guns.team/"><img src="https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/gunsteambanner.png" /></a>
