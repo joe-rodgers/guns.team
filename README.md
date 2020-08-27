@@ -14,8 +14,8 @@ These are the resources from my [Underground Citadel](https://undergroundcitadel
 <br>
 
 ## Presentation Download
-* [Presentation in PowerPoint](https://1drv.ms/p/s!ArJBIcwWDXdkjbcnC0AytV7DaHX-5g?e=7PBGVG)
-* [Presentation in PDF](https://1drv.ms/b/s!ArJBIcwWDXdkjbclcWMP1qknaf10Yg?e=V6BlGM)
+* [Presentation in PowerPoint](https://1drv.ms/p/s!ArJBIcwWDXdkjbcpX2qEjt9rfujMUw?e=Heli5Q)
+* [Presentation in PDF](https://1drv.ms/b/s!ArJBIcwWDXdkjbclcWMP1qknaf10Yg?e=D1aL8V)
 * Will upload a recording next week
 
 <br>
