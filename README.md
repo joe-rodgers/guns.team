@@ -17,6 +17,7 @@ These are the resources from my [Underground Citadel](https://undergroundcitadel
 ## Presentation Download
 * [Presentation in PowerPoint](https://1drv.ms/p/s!ArJBIcwWDXdkjbcnC0AytV7DaHX-5g?e=ybJbEC)
 * [Presentation in PDF](https://1drv.ms/b/s!ArJBIcwWDXdkjbclcWMP1qknaf10Yg?e=IpaDq4)
+* [Presentation Tweet Thread](https://twitter.com/_joerodgers/status/1300455525310754817)
 * Need to make a recording of the talk.
 
 <br>
