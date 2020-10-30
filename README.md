@@ -84,6 +84,7 @@ These are all vetted accounts I think you should follow. Don't trust. Verify for
 ## Bitcoin and 3D Printing
 There's DEFINITELY overlap between the rogue gun enthusiasts, the 3D printing gang, and bitcoiners. CryptoCloaks sits in the middle of the 3D printing and Bitcoin venn diagram. They've got some cool free projects you can download and a great telegram you can follow.
 
+* [CryptoCloaks 3D Printing Guide](http://www.cryptocloaks.com/3dprinting/)
 * [CryptoCloaks File Factory](https://www.cryptocloaks.com/file-factory/)
 * [CryptoCloaks Telegram](https://t.me/joinchat/Odg-ExafJf25XjnGVgozyg)
 * [RickV3D](https://twitter.com/RickV3D)
