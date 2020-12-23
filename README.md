@@ -22,8 +22,9 @@ These are the resources from my [Underground Citadel](https://undergroundcitadel
 
 ### Recorded Presentation on Bitcoin Kindergarten
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mwoLJ6NGpXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=mwoLJ6NGpXk"><img src="https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/yt.png" /></a>
+</p>
 
 <br>
 
@@ -83,6 +84,14 @@ These are all vetted accounts I think you should follow. Don't trust. Verify for
 * [GunsnBitcoin](https://twitter.com/GunsnBitcoin)
 * [AGleaks](https://twitter.com/AGleaks)
 * [FgcPla](https://twitter.com/FgcPla)
+
+<br>
+
+## Watch Plastic Defense
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jlB2QV5wVxg&feature=youtu.be"><img src="https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/pd.png" /></a>
+</p>
 
 <br>
 
