@@ -23,7 +23,7 @@ These are the resources from my [Underground Citadel](https://undergroundcitadel
 ### Recorded Presentation on Bitcoin Kindergarten
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=mwoLJ6NGpXk"><img src="https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/yt.png" /></a>
+  <a href="https://www.youtube.com/watch?v=mwoLJ6NGpXk"><img src="https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/yt.jpg" /></a>
 </p>
 
 <br>
