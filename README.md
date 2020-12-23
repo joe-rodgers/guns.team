@@ -20,6 +20,11 @@ These are the resources from my [Underground Citadel](https://undergroundcitadel
 * [Presentation Tweet Thread](https://twitter.com/_joerodgers/status/1300455525310754817)
 * Need to make a recording of the talk.
 
+### Recorded Presentation on Bitcoin Kindergarten
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mwoLJ6NGpXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <br>
 
 ## Organization Websites
