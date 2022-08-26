@@ -10,17 +10,16 @@
 
 3D Gun Printing is disrupting the state's monopoly on violence and is causing disruption in the economics of violence. It's important that this information is freely available and spread wide. 
 
-These are the resources from my [Underground Citadel](https://undergroundcitadel.com/) talk at [BitBlockBoom 2020](https://bitblockboom.com/).
+These are the resources from my [Underground Citadel](https://theundergroundcitadel.com/) talk at [BitBlockBoom 2022](https://bitblockboom.com/).
 
 <br>
 
 ## Presentation Download
-* [Presentation in PowerPoint](https://1drv.ms/p/s!ArJBIcwWDXdkjbcnC0AytV7DaHX-5g?e=ybJbEC)
-* [Presentation in PDF](https://1drv.ms/b/s!ArJBIcwWDXdkjbclcWMP1qknaf10Yg?e=IpaDq4)
-* [Presentation Tweet Thread](https://twitter.com/_joerodgers/status/1300455525310754817)
-* Need to make a recording of the talk.
+* [Presentation in Google Sheets](https://docs.google.com/presentation/d/1qF0CGoYMZSERy8HXyWlc9B0pRzVWXHMa8kfDsGz-Ow0/edit?usp=sharing)
+* [Presentation in PDF](https://github.com/joe-rodgers/guns.team/blob/master/assets/Joe%20Rodgers%20-%20Can't%20Stop%20The%20Signal%20-%202022.pdf)
 
-### Recorded Presentation on Bitcoin Kindergarten
+
+### 2020 Recorded Presentation on Bitcoin Kindergarten
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=mwoLJ6NGpXk"><img src="https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/yt.jpg" /></a>
@@ -30,10 +29,11 @@ These are the resources from my [Underground Citadel](https://undergroundcitadel
 
 ## Organization Websites
 These are the primary orgs where you can find signal. The keybase group below is public and there is a ton of action there. People are willing to help you there, just be sure to read the pinned messages (they will boot you if you are a dumbass).
-* [Deterrence Dispensed on Keybase](https://keybase.io/team/det_disp)
-* [Deterrence Dispensed FAQ](https://pastebin.com/raw/RSvLaDkB)
-* [Deterrence Dispensed file library](https://lbry.tv/@Deterrence-Dispensed:2)
+* [The Gatalog](https://thegatalog.com/)
+* [The Complete Getting Started Guide](https://ctrlpew.com/the-complete-getting-started-guide/)
 * [DefCad](https://defcad.com/)
+* [Deterrence Dispensed](https://www.deterrencedispensed.com/)
+* [AWCY](https://arewecoolyet.wtf/)
 
 <br>
 
@@ -71,19 +71,9 @@ Here are a few gh repos dedicated to 3D2A.
 <br>
 
 ## Twitter Follows
-These are all vetted accounts I think you should follow. Don't trust. Verify for yourself.
+The gun crowd is insane and you should devinitely follow these accounts. 
 
-[![twitterfollows](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/follows.png)](https://twitter.com/i/lists/1149016937273405440)
-
-* [3D2A Twitter list](https://twitter.com/i/lists/1149016937273405440)
-* [Ivan_Is_Back](https://twitter.com/Ivan_Is_Back)
-* [CtrlPew](https://twitter.com/CtrlPew)
-* [nguyenkvvn](https://twitter.com/nguyenkvvn)
-* [freegunzone](https://twitter.com/freegunzone)
-* [assaultclip](https://twitter.com/assaultclip)
-* [GunsnBitcoin](https://twitter.com/GunsnBitcoin)
-* [AGleaks](https://twitter.com/AGleaks)
-* [FgcPla](https://twitter.com/FgcPla)
+[![twitterfollows](https://raw.githubusercontent.com/joe-rodgers/guns.team/master/assets/2022follows.png)](https://twitter.com/_joerodgers/status/1560841584161193985)
 
 <br>
 
