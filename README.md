@@ -15,6 +15,10 @@ These are the resources from my [Underground Citadel](https://theundergroundcita
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vyi0jatVV3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<p align="center">
+  <a href="[https://joe-rodgers.github.io/guns.team/](https://www.youtube.com/embed/Vyi0jatVV3M)"><img src="https://github.com/joe-rodgers/guns.team/blob/master/assets/chrome_ZMWWfqFiTE.png" /></a>
+</p>
+
 
 <br>
 
