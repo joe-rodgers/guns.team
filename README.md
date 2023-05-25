@@ -21,7 +21,7 @@ These are the resources from my [Underground Citadel](https://theundergroundcita
 <br>
 
 ## Presentation Download
-* [2022 Presentation in Google Sheets](* [Presentation in Google Sheets](https://docs.google.com/presentation/d/1qF0CGoYMZSERy8HXyWlc9B0pRzVWXHMa8kfDsGz-Ow0/edit?usp=sharing))
+* [2022 Presentation in Google Sheets](https://docs.google.com/presentation/d/1qF0CGoYMZSERy8HXyWlc9B0pRzVWXHMa8kfDsGz-Ow0/edit?usp=sharing)
 * [Presentation in Google Sheets](https://docs.google.com/presentation/d/1qF0CGoYMZSERy8HXyWlc9B0pRzVWXHMa8kfDsGz-Ow0/edit?usp=sharing)
 * [Presentation in PDF](https://github.com/joe-rodgers/guns.team/blob/master/assets/Joe%20Rodgers%20-%20Can't%20Stop%20The%20Signal%20-%202022.pdf)
 
