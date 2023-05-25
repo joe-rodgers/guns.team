@@ -13,8 +13,6 @@
 These are the resources from my [Underground Citadel](https://theundergroundcitadel.com/) talk at [BitBlockBoom 2022](https://bitblockboom.com/).
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vyi0jatVV3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <p align="center">
   <a href="https://www.youtube.com/embed/Vyi0jatVV3M"><img src="https://github.com/joe-rodgers/guns.team/blob/master/assets/chrome_ZMWWfqFiTE.png" /></a>
 </p>
